@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This application resolves a common challenge by National University (NUPH) students: managing and tracking academic performance dynamically across a complex grading rubric. Under the standard system, grades are split into dynamic Class Standing and Exam percentages per period (commonly 60-40), with the final semestral grading consisting of a 50-50 split between Midterms and Finals. This tool eliminates manual errors by calculating category proportions natively while utilizing the precise 4.00 NU grade framework.
+This mobile application resolves a common challenge by National University (NUPH) students: managing and tracking academic performance dynamically across a complex grading rubric. Under the standard system, grades are split into dynamic Class Standing and Exam percentages per period (commonly 60-40), with the final semestral grading consisting of a 50-50 split between Midterms and Finals. This tool eliminates manual errors by calculating category proportions natively while utilizing the precise 4.00 NU grade framework.
 
 ### Major Features
 
