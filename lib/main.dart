@@ -13,11 +13,11 @@ class NuGradeCalculatorApp extends StatelessWidget {
       title: 'NU Grade Calculator',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: const Color(0xff1d3276), // Custom NU Blue
+        primaryColor: const Color(0xff1d3276), 
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xff1d3276),
-          primary: const Color(0xff1d3276), // Custom NU Blue Primary
-          secondary: const Color(0xffd9b638), // Custom NU Yellow Gold Accent
+          primary: const Color(0xff1d3276),
+          secondary: const Color(0xffd9b638), 
           surface: const Color(0xfff4f6f9),
         ),
         scaffoldBackgroundColor: const Color(0xfff4f6f9),
@@ -173,19 +173,19 @@ class _GradeCalculatorHomeState extends State<GradeCalculatorHome> {
       length: 2,
       child: Scaffold(
         appBar: AppBar(
-          backgroundColor: const Color(0xff1d3276), // Custom NU Blue
+          backgroundColor: const Color(0xff1d3276), 
           centerTitle: true,
           title: const Text(
             'NU GRADE CALCULATOR',
             style: TextStyle(
-              color: Color(0xffd9b638), // Custom NU Yellow Gold
+              color: Color(0xffd9b638), 
               fontWeight: FontWeight.bold,
               fontSize: 20,
               letterSpacing: 1.2,
             ),
           ),
           bottom: const TabBar(
-            labelColor: Color(0xffd9b638), // Custom NU Gold Selected
+            labelColor: Color(0xffd9b638), 
             unselectedLabelColor: Colors.white70,
             indicatorColor: Color(0xffd9b638),
             tabs: [
