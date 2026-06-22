@@ -14,4 +14,4 @@ This application resolves a common challenge by National University (NUPH) stude
 ### Installation / How to Build
 1. Clone this repository:
    ```bash
-   git clone [[https://github.com/](https://github.com/Gyadoras/national_university_ph-grade-calculator)
+   git clone [https://github.com/](https://github.com/Gyadoras/national_university_ph-grade-calculator)
