@@ -1,17 +1,17 @@
-# national_university_grade_calculator
+# National University Semestral Grade Calculator
 
-A Grade Calculator for Students like me who need to calculate their grades
+## Project Description
 
-## Getting Started
+This application resolves a common challenge by National University (NUPH) students: managing and tracking academic performance dynamically across a complex grading rubric. Under the standard system, grades are split into dynamic Class Standing and Exam percentages per period (commonly 60-40), with the final semestral grading consisting of a 50-50 split between Midterms and Finals. This tool eliminates manual errors by calculating category proportions natively while utilizing the precise 4.00 NU grade framework.
 
-This project is a starting point for a Flutter application.
+### Major Features
 
-A few resources to get you started if this is your first Flutter project:
+* **Dynamic Ratio Configuration:** Sliders and text input fields adjust the Class Standing vs Exam fluidly per term.
+* **Nested Categories:** Create multiple grading groups (Quizzes, Assignments, etc.) with custom weights and compile unlimited individual entries under an integrated HPS framework.
+* **Strict Weight Verification:** Structural warning boundaries trigger an error message if internal criteria fall short or exceed 100%.
+* **Cohesive NU Theme:** Designed with the official National University blue and gold color scheme (#1D3276 and #D9B638) ensuring clear legibility and contrast.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation / How to Build
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/](https://github.com/)[YOUR_USERNAME]/[YOUR_REPO_NAME].git
